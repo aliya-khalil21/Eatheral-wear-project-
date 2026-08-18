@@ -1,2 +1,2 @@
 # Eatheral-wear-project-
-5th semester project of SE
+MERN e-commerce experience with product catalog, cart flows, secure authentication, REST APIs, and Redux Toolkit state management.
